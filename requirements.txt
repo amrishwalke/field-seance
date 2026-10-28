@@ -1,0 +1,4 @@
+crewai>=1.13,<2
+requests
+python-dotenv
+markdown
